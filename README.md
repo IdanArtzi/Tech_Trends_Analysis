@@ -1,5 +1,8 @@
-# Tech_Trends_Project
+# Tech_Trends_Analysis
 
 # Intro
-IBM Capstone Project - Analyzing a Stackoverflow survey to detect current and future tech trends. 
-As part of the IBM professionale data analyst course, I was required to clean, transform, manipulate, perform EDA and present my insights on the dataset.
+Analyzing a Stackoverflow survey to understand current and future tech trends. 
+
+# Dashboard 
+This Dashboard has been created using IBM Cognos Analytics 
+https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FTech_Trends_Dashboard&action=view&mode=dashboard&subView=model0000019b59948182_00000003&nav_filter=true
