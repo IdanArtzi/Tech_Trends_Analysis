@@ -6,7 +6,7 @@ Analyzing a Stackoverflow survey to understand current and future tech trends.
 # Insights 
 
 - The top 5 Trending programming languages are the same as the current top 5, with Python Taking the top spot from JavaScript as the top language respondents want to work with.
-
+!(images/current lang.png)
   
 - Overall the top 5 languages to learn for future relevancy are Python, JavaScript, SQL, HTML/CSS and TypeScript, with Rust on the rise due to it's great data security, and memorey efficiency properties.
 - PostgreSQL, MySQL and SQLite remain the top data bases respondents use, both currently and for future. 
