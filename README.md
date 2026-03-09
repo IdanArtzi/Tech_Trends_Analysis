@@ -26,5 +26,7 @@ while the overall top 5 languages remain consistent.
 
 # Dashboard 
 This Dashboard has been created using IBM Cognos Analytics -
-https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FTech_Trends_Dashboard&action=view&mode=dashboard&subView=model0000019b59948182_00000003&nav_filter=true
+<p float="left">
+  <img src="images/Tech_Trends_Dashboard.pdf" width="45%">
+</p>
 
