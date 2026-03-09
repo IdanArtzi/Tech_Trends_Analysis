@@ -107,6 +107,20 @@ This dashboard was created using IBM Cognos Analytics to provide an interactive 
 
 ### Respondents Demographics
 
+# Insights:
+The main target audience for any sales manager would be **18-44 years old** that live in **western societies, mainly the USA.**
+As this age group takes up **80.8% of the total developers.** Based on the developers of this survey.
+
+This insight can be useful to many businesses, from the Tech companies that create these tools, to a beginner wanting to understand where and how to start their data journey. 
+
+**Who else can benefit from these findings:**
+* Companies creating tools and copilots.
+* Marketing Teams
+* Sales Teams
+* HR Teams
+* Educational organizations; Universities, Coding courses, Self-studying students ect.
+
+
 <p align="center">
   <img src="images/Dashboard_3_demographics.png" width="70%">
 </p>
